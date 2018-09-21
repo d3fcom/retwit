@@ -1,0 +1,9 @@
+{
+    "name": "retwitd3fco",
+    "version": "0.1.0",
+    "dependencies": {
+        "twit": "^2.2.11"
+    },
+    "author": "luis .p <weis23.lp@email.com>",
+    "description": "simple retweeter"
+}
